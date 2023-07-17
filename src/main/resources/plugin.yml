@@ -1,0 +1,4 @@
+author: Bramsou
+name: ProtocolChecker
+version: 1.0-SNAPSHOT
+main: fr.bramsou.protocol.ProtocolChecker
